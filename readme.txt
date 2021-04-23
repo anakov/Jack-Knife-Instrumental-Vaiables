@@ -55,7 +55,7 @@ table II.xls : replication of Table II (Returns to schooling) in Angrist, Imbens
 
 table 1.xls  : Table 1 of the replication paper containing Anton Nakov's simulations of Model 3 (where the discrepancy with the original paper was found)
 
-table 2.xls  : Table 2 of the replication paper: Returns to schooling estimated from 100 random sub-samples of 50,000 observations 
+table 2.xls  : Table 2 of the replication paper: Returns to schooling estimated from 100Â random sub-samples of 50,000 observations 
 
 table 3.xls  : Table 3 of the replication paper:  Monte Carlo simulations with a small sample size, N = 25
 
@@ -64,8 +64,7 @@ table 4.xls  : Table 4 of the replication paper: Autocorrelated errors, rho = 0.
 
 The data used is the same as that in the original article and can be downloaded from the JAE Data Archive: 
 
-http://www.econ.queensu.ca/jae/1999-v14.1/angrist-imbens-krueger/
-
+http://qed.econ.queensu.ca/jae/
 
 Angrist, J, Imbens, G,  Krueger A. 1999. Jackknife instrumental variables estimation. Journal of Applied Econometrics 14: 57-67. 
 
